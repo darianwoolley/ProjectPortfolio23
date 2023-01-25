@@ -1,0 +1,67 @@
+/*
+WRITTEN BY: Darian Woolley
+EMAIL: dgwoolle@uci.edu
+*/
+ul {
+    font-family: courier;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #116611;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #88CC88;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #004400;
+}
+
+img{
+  /*
+  line 33 references https://www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels.
+  */
+  width:20%; 
+  float: left; 
+  margin-right: 20px; 
+}
+
+p  {
+  color: #116611;
+  font-family: courier;
+  font-weight: bold;
+}
+
+body{
+  background-color: #88CC88;
+}
+
+h1 {
+    color: #004400;
+    font-family: courier;
+    
+  
+  }
+h2 {
+  color: #116611;
+  font-family: courier;
+  font-weight: bold;
+}
+h3 {
+  
+  color: #116611;
+  font-family: courier;
+
+}
+ 
+
+  
