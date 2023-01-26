@@ -31,7 +31,7 @@ img{
   line 33 references https://www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels.
   */
   width:20%; 
-  float: right; 
+  float: left; 
   margin-right: 20px; 
 }
 
@@ -39,7 +39,7 @@ p  {
   color: #116611;
   font-family: courier;
   font-weight: bold;
-  font-size: 50%;
+  font-size: 50vw;
 }
 
 body{
