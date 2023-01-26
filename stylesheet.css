@@ -11,7 +11,7 @@ ul {
     background-color: #116611;
 }
 li {
-  float: left;
+  float: center;
 }
 
 li a {
@@ -31,7 +31,7 @@ img{
   line 33 references https://www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels.
   */
   width:20%; 
-  float: left; 
+  float: right; 
   margin-right: 20px; 
 }
 
