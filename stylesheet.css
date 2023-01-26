@@ -39,7 +39,7 @@ p  {
   color: #116611;
   font-family: courier;
   font-weight: bold;
-  font-size: 80%;
+  font-size: large;
 }
 
 body{
@@ -49,20 +49,20 @@ body{
 h1 {
     color: #004400;
     font-family: courier;
-    font-size: 80%;
+    font-size: xxx-large;
   
   }
 h2 {
   color: #116611;
   font-family: courier;
   font-weight: bold;
-  font-size: 80%;
+  font-size: xx-large;
 }
 h3 {
   
   color: #116611;
   font-family: courier;
-  font-size: 80%;
+  font-size: x-large;
 
 }
  
